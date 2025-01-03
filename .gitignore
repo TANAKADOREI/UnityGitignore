@@ -31,11 +31,11 @@
 /*/[Aa]ssets/[Ss]treamingAssets/aa.meta
 /*/[Aa]ssets/[Ss]treamingAssets/aa/*
 
-# Global settings. Exclude specific directories
+# Directories
 .vs/
 .gradle/
 
-# Global settings. Exclude files with specific extensions
+# Files
 *.suo
 *.tmp
 *.user
@@ -54,7 +54,5 @@
 *.aab
 *.unitypackage
 *.app
-
-# Global settings. Exclude specific files
 sysinfo.txt
 crashlytics-build.properties
